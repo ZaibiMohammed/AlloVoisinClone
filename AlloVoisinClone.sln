@@ -1,0 +1,26 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.0.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5F15837D-D1E5-44DC-92F0-4F2EBE9C3F8D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{0537CB5C-BB48-49FC-A5F5-78312C7FA4F3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{AD6DAADF-BB4E-4854-9263-B9B8C6223606}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{E1F47079-36CB-4C6A-937E-2B0E3499B3A1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{8AE36E8C-2D19-4C87-A551-A4B2C471E60E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AD6DAADF-BB4E-4854-9263-B9B8C6223606} = {5F15837D-D1E5-44DC-92F0-4F2EBE9C3F8D}
+		{E1F47079-36CB-4C6A-937E-2B0E3499B3A1} = {5F15837D-D1E5-44DC-92F0-4F2EBE9C3F8D}
+		{8AE36E8C-2D19-4C87-A551-A4B2C471E60E} = {5F15837D-D1E5-44DC-92F0-4F2EBE9C3F8D}
+	EndGlobalSection
+EndGlobal
